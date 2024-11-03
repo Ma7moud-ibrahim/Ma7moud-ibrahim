@@ -3,9 +3,9 @@
 I'm an **IT Specialist** and **Mobile App Developer** with expertise in Kotlin, Jetpack Compose, and Android Development. I’m passionate about creating efficient, scalable applications that enhance user experience and make technology accessible for everyone.
 
 ## 🌟 Skills & Technologies
-- **Languages:** Kotlin, Java, Flutter
-- **Frameworks & Libraries:** Jetpack Compose, Firebase, Room, Retrofit, Hilt
-- **Tools & Platforms:** Git & GitHub, Android SDK, Agile Methodologies
+- **Languages:** ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+- **Frameworks & Libraries:** ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23323330.svg?style=for-the-badge&logo=android&logoColor=%23FF6F00) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) Room, Retrofit, Hilt
+- **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Android](https://img.shields.io/badge/Android-%234CAF50.svg?style=for-the-badge&logo=android&logoColor=white) Agile Methodologies
 - **Specializations:** Clean Architecture, Responsive & Adaptive Design, Network Integration
 
 ## 🚀 Projects
