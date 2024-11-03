@@ -1,29 +1,28 @@
-About Me
-👋 Hi there! I'm Mahmoud Aboshosha, an enthusiastic Android Developer and IT Specialist with a strong foundation in application design and development. My journey has taken me through various realms of technology, from mobile app development to artificial intelligence and cybersecurity, making me a versatile developer with a passion for innovative solutions.
+# 👋 Hello, I'm Mahmoud Aboshosha!
 
-🔹 My Skills
-Programming Languages: Kotlin, Java
-Mobile Development: Jetpack Compose, Android SDK, Firebase, Room Database
-Back-End & APIs: RESTful API Integration, Retrofit
-Frameworks & Architecture: Clean Architecture, MVVM, Dependency Injection (Hilt)
-Additional Knowledge: Flutter, Cybersecurity, Networking, AI
-Tools: Git & GitHub, Agile Methodologies
-📈 Professional Experience
-I’ve gained practical experience through various internships and projects, such as:
+I'm an **IT Specialist** and **Mobile App Developer** with expertise in Kotlin, Jetpack Compose, and Android Development. I’m passionate about creating efficient, scalable applications that enhance user experience and make technology accessible for everyone.
 
-Developing a Gym Management App that enhances operational efficiency.
-Building a Clinic Management System with smooth navigation and clean architecture.
-Creating a Muslim Remembrances App to provide users with a seamless experience.
-🏆 Certifications
-Project Management - American Chamber of Commerce (35 Hours)
-Mobile Application Development - Digital Egypt Pioneers Initiative (159 Hours)
-Artificial Intelligence - Creative (70 Hours) & Huawei (50 Hours)
-English Language - Harvard Business Center (108 Hours)
-🌐 Find Me
-GitHub: github.com/Ma7moud-ibrahim
-LinkedIn: linkedin.com/in/mahmoud-ebrahim-36276225a
-Codeforces: codeforces.com/profile/7oda_hima
-🎯 My Goal
-I'm always looking for new challenges that allow me to apply my skills and continue learning. Currently, I'm interested in Android development roles where I can contribute to impactful projects while leveraging my knowledge in clean architecture and responsive UI design.
+## 🌟 Skills & Technologies
+- **Languages:** Kotlin, Java, Flutter
+- **Frameworks & Libraries:** Jetpack Compose, Firebase, Room, Retrofit, Hilt
+- **Tools & Platforms:** Git & GitHub, Android SDK, Agile Methodologies
+- **Specializations:** Clean Architecture, Responsive & Adaptive Design, Network Integration
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to connect or discuss potential collaborations. 😊
+## 🚀 Projects
+Here are a few projects that showcase my experience and expertise:
+
+- [**GymsAround**](https://github.com/Ma7moud-ibrahim/GymsAround): An Android app utilizing Jetpack Compose, Room, and Retrofit to help users locate nearby gyms.
+- [**Healthy Fitness App**](https://github.com/Ma7moud-ibrahim/HealthyFitnessApp): A comprehensive fitness app focused on health tracking and workout routines.
+- **Clinic Management System**: An application designed to improve clinic operations with seamless navigation and efficient data management.
+
+## 📜 Certifications
+- **Project Management** - American Chamber of Commerce (35 Hours)
+- **Digital Egypt Pioneers Initiative** - Mobile Application Track (159 Hours)
+- **AI Certification** - Huawei (50 Hours)
+
+## 📫 Connect with Me
+- **LinkedIn:** [Mahmoud Aboshosha](https://linkedin.com/in/mahmoud-ebrahim-36276225a)
+- **Codeforces:** [7oda_hima](https://codeforces.com/profile/7oda_hima)
+- **Email:** mahmoud.email@example.com
+
+Let's collaborate on innovative projects and make technology accessible to all! 😄
