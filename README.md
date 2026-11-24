@@ -1,6 +1,7 @@
 # Hi, I'm Mahmoud Abo Shousha 👋
 
 **Flutter Developer | Dart, Bloc, Firebase**
+
 IT graduate, Delta Technological University (2025)
 
 I build cross-platform mobile apps with Flutter and Dart. I also have a background in native Android with Kotlin and Jetpack Compose.
