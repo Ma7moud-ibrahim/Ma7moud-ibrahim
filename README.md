@@ -42,7 +42,7 @@ Each project README has a Future Work section with planned features.
 
 ## Education
 
-- **B.Sc. in Information Technology**, Delta Technological University (2025)
+- **Information Technology graduate**, Delta Technological University (2025), graduated with **Excellent grade, with Honors**
 
 ## Certifications
 
