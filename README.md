@@ -114,7 +114,6 @@ A Flutter-based e-commerce application focused on building a complete and modern
 * 🧭 Bottom Navigation
 * 📱 Responsive UI
 * 🔥 Firebase integration
-* 📍 Live location & map integration
 
 **Technologies:** Flutter • Dart • REST API • Firebase • HTTP • Git
 
@@ -165,3 +164,4 @@ I'm currently focusing on **Flutter & Dart development**, building real-world mo
 ⭐ Feel free to explore my repositories and connect with me!
 
 **Let's build something great together 🚀**
+
